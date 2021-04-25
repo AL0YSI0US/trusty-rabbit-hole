@@ -1,4 +1,9 @@
-import logo from './logo.svg';
+// R E A C T
+import React from 'react';
+// A X I O S
+import logo from './mandalaLeap.jpg';
+// C O M P O N E N T S
+// C S S
 import './App.css';
 
 function App() {
@@ -7,15 +12,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          C R E A T E the change you want to see . . .
         </p>
+        <p>🐰🕳️</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sourcecred.io/docs/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Source Cred
         </a>
       </header>
     </div>
