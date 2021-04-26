@@ -1,7 +1,7 @@
 // R E A C T
 import React from 'react';
 // A X I O S
-import logo from './mandalaLeap.jpg';
+import logo from './sourceCred.png';
 // C O M P O N E N T S
 // C S S
 import './App.css';
@@ -14,7 +14,7 @@ function App() {
         <p>
           C R E A T E the change you want to see . . .
         </p>
-        <p>🐰🕳️</p>
+        <p>🐰 . . . . . . . . . . . .🕳️</p>
         <a
           className="App-link"
           href="https://sourcecred.io/docs/"
