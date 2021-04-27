@@ -18,7 +18,6 @@ yarn build
 ```sh
 git clone https://github.com/sourcecred/template-instance.git
 cd template-instance
-yarn
 ```
 
 Using this instance as a starting point, you can update the config to include
@@ -53,11 +52,13 @@ A convenient way to do that is to create an alias for your altered version of So
 Here's an example of how to do so in a bash shell:
 
 ```sh
+# While in the SourceCred directory reopsitory  
 SC_REPOSITORY_DIR=`pwd`
 alias scdev='node "$SC_REPOSITORY_DIR"/bin/sourcecred.js'
-cd $MY_SC_INSTANCE
 
-#Run the `sourcecred go` command, in your instance, using your modified code.
+# Then go back to the Template Instance directory, for example:
+cd $MY_SC_INSTANCE
+# Run the `sourcecred go` command, in your instance, using your modified code.
 scdev go
 ```
 5. Initialize the configs
@@ -100,7 +101,7 @@ to your GitHub Action secrets.
 The full instructions for setting up the Discord plugin can be found in the [Discord plugin page](https://sourcecred.io/docs/beta/plugins/discord/#configuration)
  in the SourceCred documentation. 
 
-Removing plugins**
+Removing plugins
 ## Removing plugins
 
 To deactivate a plugin, just remove it from the `bundledPlugins` array in the `sourcecred.json` file.
