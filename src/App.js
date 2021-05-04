@@ -14,7 +14,7 @@ function App() {
         <p>
           C R E A T E the change you want to see . . .
         </p>
-        <p>🐰 . . . . . . . . . . . .🕳️</p>
+        <p>🐰 . . . . . . . 🕳️</p>
         <a
           className="App-link"
           href="https://sourcecred.io/docs/"
