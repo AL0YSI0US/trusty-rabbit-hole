@@ -23,7 +23,7 @@ cd template-instance
 Using this instance as a starting point, you can update the config to include
 the plugins you want, pointing at the data you care about. We recommend setting up
 your instance locally first and make sure its working before pushing your changes
-to master and using the Github Action.
+to main and using the Github Action.
 
 1. Get [Yarn] and then run `yarn` to install SourceCred and dependencies.
 
@@ -71,7 +71,7 @@ scdev go
 7. run `scdev serve` go to the url it outputs.
 
 
-<h2 align="center">Supported Plugins</h2>
+## Supported Plugins
 
 **GitHub**
 
