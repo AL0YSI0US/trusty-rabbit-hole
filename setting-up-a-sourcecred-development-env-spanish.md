@@ -62,7 +62,9 @@ cd $MY_SC_INSTANCE
 scdev go
 ```
 5. Inicializar las configuraciones
+   
    a. cambio https://github.com/sourcecred/template-instance/blob/master/config/grain.json#L2 Ser distinta de-cero
+   
    b. cambio https://github.com/sourcecred/template-instance/blob/master/sourcecred.json#L2 ser - estar ["sourcecred/discourse"]
 
 6. desde su clon de instancia de plantilla local, ejecute `scdev go`
