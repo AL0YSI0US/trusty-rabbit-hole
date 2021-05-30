@@ -62,7 +62,9 @@ cd $MY_SC_INSTANCE
 scdev go
 ```
 5. Initialize the configs
+   
    a. change https://github.com/sourcecred/template-instance/blob/master/config/grain.json#L2 to be non-zero
+   
    b. change https://github.com/sourcecred/template-instance/blob/master/sourcecred.json#L2 to be ["sourcecred/discourse"]
 
 6. from your local template-instance clone, run `scdev go`
