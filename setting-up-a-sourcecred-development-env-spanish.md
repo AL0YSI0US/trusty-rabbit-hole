@@ -1,7 +1,3 @@
-<details>
-<summary>I gave it a go in spanish. . .</summary>
-<br>
-
 # Configuración de un entorno de desarrollo de Source Cred
 
 ## Construyendo SourceCred localmente
@@ -113,4 +109,3 @@ También puede eliminar su directorio `config/plugins/OWNER/NAME` por si acaso.
 [Yarn]: https://classic.yarnpkg.com/
 
 + Translated [here](https://translate.google.com/?sl=auto&tl=es&text=I%20enjoy%20the%20freedom%20to%20create%20at%20Source%20cred&op=translate)
-</details>
