@@ -8,7 +8,7 @@ description: This workguide covers the opt-in process as an instance maintainer 
 ## 1. Opt-in Process
 After an individual has submitted an opt-in form the application will be accessible from the admin portal under the `Reponses` tab located near the top of the google form page.
 
-
+The following two dropdowns represent the information that is located on each instances google opt-in forms:
 <details><summary>SourceCred opt-in form</summary>
 <p>
 
