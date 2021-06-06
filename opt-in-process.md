@@ -70,6 +70,8 @@ The following two dropdowns represent the information that is located on each in
 > Some positions internal to Maker (like an employee at the Maker Foundation) may have internal policies that prevent individuals in *"douple-dipping".*
 4. Opt-in elligible users.  
   
+<br>  
+  
 ## 2. Validate User Identity - Discord - sourcecred
 > Obtain username from the SourceCred opt-in form to validate that this is in fact humxn as well as an **active** user on our server.
 + [sourcecred](https://sourcecred.io/discord) - *discord*
