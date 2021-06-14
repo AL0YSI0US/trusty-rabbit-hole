@@ -1,5 +1,5 @@
 [SOP] Merge/Activate Identities
-- [[Standard Operating Procedures]]
+> Standard Operating Procedures
 - **Prerequisites**
     - GitHub account with write access on sourcecred/cred repo
         - Devs already have perms. Non-devs can ask Thena or Topocount to be added to this team: https://github.com/orgs/sourcecred/teams/instance-helpers/members
